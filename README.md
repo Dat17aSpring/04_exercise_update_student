@@ -6,4 +6,4 @@ Make your application able to do this:
 ![](https://github.com/Dat17i/04_agenda/blob/master/update.png)
 
 
-&copy; KEA, clbo 2018
+_<div align="right">&copy; clbo@kea.dk</div>_
