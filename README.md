@@ -1,4 +1,9 @@
-# 06_exercise_update_student
+# 04 Exercise: Update Student
 Exercise for creating the update functionality in the studentsadministration application
 
-Not done yet: TO be made
+Make your application able to do this:
+
+![](https://github.com/Dat17i/04_agenda/blob/master/update.png)
+
+
+&copy; KEA, clbo 2018
